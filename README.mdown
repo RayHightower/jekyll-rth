@@ -1,0 +1,5 @@
+Converting from Octopress 2.0 to Jekyll 2.5.3
+===
+
+The [RayHightower.com](http://rayhightower.com) personal blog might be moving from Octopress 2.0 to Jekyll 2.5.3. This repo will let me test the migration and confirm that the blog will not lose function afterwards.
+
