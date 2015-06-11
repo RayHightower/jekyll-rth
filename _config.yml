@@ -14,4 +14,4 @@ github_username:  jekyll
 markdown: kramdown
 highlighter: pygments
 
-gems: [pygments.rb, image_caption_tag]
+# gems: [pygments.rb, image_caption_tag]

@@ -5,3 +5,4 @@ source "https://rubygems.org"
 
 gem 'stringex'
 gem 'pygments.rb'
+gem 'haml'
